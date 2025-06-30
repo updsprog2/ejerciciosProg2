@@ -1,0 +1,18 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Teclado",
+        "stock": 25,
+        "precio": 80.0,
+        "disponible": true,
+        "etiquetas": ["gamer", "mecanico", "rgb"]
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Mouse",
+        "stock": 40,
+        "precio": 45.5,
+        "disponible": true,
+        "etiquetas": ["gamer", "optico"]
+    }
+]

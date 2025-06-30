@@ -1,0 +1,45 @@
+Querido diario,
+Hoy aprendí sobre archivos en Python.
+El modo 'w' borra todo antes de escribir. ¡Qué miedo!
+¡Pero también es muy útil para comenzar desde cero!
+
+--- Entrada del 20 de Junio de 2025 ---
+El modo 'a' es genial para no perder datos.
+Ahora mi diario puede crecer cada día.
+Querido diario,
+Hoy aprendí sobre archivos en Python.
+El modo 'w' borra todo antes de escribir. ¡Qué miedo!
+¡Pero también es muy útil para comenzar desde cero!
+
+--- Nueva entrada personalizada ---
+aaa
+Querido diario,
+Hoy aprendí sobre archivos en Python.
+El modo 'w' borra todo antes de escribir. ¡Qué miedo!
+¡Pero también es muy útil para comenzar desde cero!
+
+--- Nueva entrada personalizada ---
+bbb
+Querido diario,
+Hoy aprendí sobre archivos en Python.
+El modo 'w' borra todo antes de escribir. ¡Qué miedo!
+¡Pero también es muy útil para comenzar desde cero!
+
+--- Nueva entrada personalizada ---
+ccc
+Querido diario,
+Hoy aprendí sobre archivos en Python.
+El modo 'w' borra todo antes de escribir. ¡Qué miedo!
+¡Pero también es muy útil para comenzar desde cero!
+
+--- Nueva entrada personalizada ---
+dddd
+eeee
+Querido diario,
+Hoy aprendí sobre archivos en Python.
+El modo 'w' borra todo antes de escribir. ¡Qué miedo!
+¡Pero también es muy útil para comenzar desde cero!
+Querido diario,
+Hoy aprendí sobre archivos en Python.
+El modo 'w' borra todo antes de escribir. ¡Qué miedo!
+¡Pero también es muy útil para comenzar desde cero!
