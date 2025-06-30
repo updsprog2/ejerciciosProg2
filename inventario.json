@@ -1,18 +1,17 @@
 [
     {
-        "codigo": "P001",
-        "nombre": "Teclado",
-        "stock": 25,
-        "precio": 80.0,
-        "disponible": true,
-        "etiquetas": ["gamer", "mecanico", "rgb"]
+        "producto": "Chocolate para Taza 'El Ceibo'",
+        "stock": 50,
+        "precio": 25.5
     },
     {
-        "codigo": "P002",
-        "nombre": "Mouse",
-        "stock": 40,
-        "precio": 45.5,
-        "disponible": true,
-        "etiquetas": ["gamer", "optico"]
+        "producto": "Café de los Yungas",
+        "stock": 100,
+        "precio": 30.0
+    },
+    {
+        "producto": "Quinua Real en Grano",
+        "stock": 80,
+        "precio": 28.75
     }
 ]

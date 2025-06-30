@@ -1,0 +1,9 @@
+{
+    "curso": "Prog II",
+    "año": 2025,
+    "estudiantes": [
+        "Ana",
+        "Juan",
+        "Maria"
+    ]
+}

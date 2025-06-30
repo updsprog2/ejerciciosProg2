@@ -1,3 +1,4 @@
+
 import json
 
 # Leer el archivo JSON y convertirlo en una lista de diccionarios
